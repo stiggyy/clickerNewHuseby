@@ -17,6 +17,7 @@
 		422382242ACC5C3E009B6412 /* clickerNewHusebyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 422382232ACC5C3E009B6412 /* clickerNewHusebyTests.swift */; };
 		4223822E2ACC5C3E009B6412 /* clickerNewHusebyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4223822D2ACC5C3E009B6412 /* clickerNewHusebyUITests.swift */; };
 		422382302ACC5C3E009B6412 /* clickerNewHusebyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4223822F2ACC5C3E009B6412 /* clickerNewHusebyUITestsLaunchTests.swift */; };
+		4223823D2ACC5F18009B6412 /* ViewControllerStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4223823C2ACC5F18009B6412 /* ViewControllerStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		422382292ACC5C3E009B6412 /* clickerNewHusebyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = clickerNewHusebyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4223822D2ACC5C3E009B6412 /* clickerNewHusebyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clickerNewHusebyUITests.swift; sourceTree = "<group>"; };
 		4223822F2ACC5C3E009B6412 /* clickerNewHusebyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clickerNewHusebyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4223823C2ACC5F18009B6412 /* ViewControllerStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				4223820B2ACC5C3D009B6412 /* SceneDelegate.swift */,
 				4223820D2ACC5C3D009B6412 /* ViewController.swift */,
 				4223820F2ACC5C3D009B6412 /* Main.storyboard */,
+				4223823C2ACC5F18009B6412 /* ViewControllerStore.swift */,
 				422382152ACC5C3E009B6412 /* Assets.xcassets */,
 				422382172ACC5C3E009B6412 /* LaunchScreen.storyboard */,
 				4223821A2ACC5C3E009B6412 /* Info.plist */,
@@ -263,6 +266,7 @@
 			files = (
 				422382142ACC5C3D009B6412 /* clickerNewHuseby.xcdatamodeld in Sources */,
 				4223820E2ACC5C3D009B6412 /* ViewController.swift in Sources */,
+				4223823D2ACC5F18009B6412 /* ViewControllerStore.swift in Sources */,
 				4223820A2ACC5C3D009B6412 /* AppDelegate.swift in Sources */,
 				4223820C2ACC5C3D009B6412 /* SceneDelegate.swift in Sources */,
 			);
